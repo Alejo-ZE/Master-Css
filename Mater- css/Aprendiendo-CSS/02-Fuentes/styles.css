@@ -1,0 +1,40 @@
+@font-face {
+
+    font-family: fuente personalizada; src: url(fonts/Arial);
+}
+
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 55px;
+
+    /*Coores */
+
+    /*Colores del sistema */
+    color: fdca2d;
+
+    /*Colores hexadecimales */
+    color: rgb(rgb(80, 18, 70), green, blue)
+    ;
+
+    /*Colores RGB */
+
+    /*Colores RGBA */
+
+
+
+
+}
+
+h3{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    color: 000;
+}
+
+p{
+    font-family: ffonts/Arial;
+    font-size: 18px;
+    font-weight: 100;

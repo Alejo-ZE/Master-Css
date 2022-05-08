@@ -1,0 +1,20 @@
+body{
+
+    background: #ccc;
+    background-image: url(img/descarga.jpg);
+    background: size: 80px;
+
+}
+
+#caja{
+    border: 5px solid black;
+    padding: 10px; ;
+    background: green;
+    color: white;
+
+    text-align: center;
+    line-height: 50px;
+    text-transform: uppercase;
+    text-decoration:underline;
+    text-decoration:line-through;
+}
